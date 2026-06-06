@@ -4,7 +4,7 @@
         "username": "Dr. Alexandeeka",
         "password": "060312",
         "expirydate": "06-06-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "031c26705cd13854",
